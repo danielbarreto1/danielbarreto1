@@ -1,6 +1,6 @@
 <!-- Daniel Medeiros - GitHub README -->
 
-<h1 align="center">👋 Olá, eu sou o Daniel Medeiros</h1>
+<h1 align="center">Opa! Sou o Daniel 😁</h1>
 
 <p align="center">
 🎯 Especialista em <strong>Cloud Computing</strong>, certificado AWS (Solutions Architect Associate).<br>
@@ -64,10 +64,3 @@ Ao longo da minha jornada, atuei em **diversos projetos críticos**, sempre com 
 </p>
 
 ---
-
-## ✨ Frase que me representa
-
-> *"Simplicidade com consistência gera soluções poderosas. Crescer é entregar melhor, não apenas mais."*
-
----
-
