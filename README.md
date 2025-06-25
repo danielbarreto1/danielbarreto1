@@ -26,7 +26,7 @@ Ao longo da minha jornada, atuei em **diversos projetos críticos**, sempre com 
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" />
+  <img src="https://camo.githubusercontent.com/ecb07957af8fa1dafd763103a2732a8c156a607bb4cd9f13fe98176f91246756/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39332f416d617a6f6e5f5765625f53657276696365735f4c6f676f2e737667" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
