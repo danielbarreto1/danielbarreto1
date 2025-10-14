@@ -3,7 +3,7 @@
 <h1 align="center">Opa! Sou o Daniel 😁</h1>
 
 <p align="center">
-🎯 Especialista em <strong>Cloud Computing</strong>, certificado AWS (Solutions Architect Associate).<br>
+🎯 Especialista em <strong>Cloud Computing</strong>, certificado pela AWS (Solutions Architect Associate).<br>
 🚀 Entusiasta de automação, escalabilidade e boas práticas DevOps.<br>
 🌐 Foco em ambientes produtivos resilientes e infraestrutura como código.
 </p>
@@ -12,9 +12,9 @@
 
 ## 🧠 Sobre Mim
 
-Sou **Daniel Medeiros**, entusiasta de Cloud Computer certificado pela AWS como **Solutions Architect Associate**, com sólida experiência em:
+Sou **Daniel Medeiros**, atuando como Cloud Engineer certificado pela AWS como **Solutions Architect Associate**, com vasta experiência em:
 
-- Provisionamento, gestão e automação de ambientes em nuvem (AWS).
+- Provisionamento, gestão e automação de ambientes em nuvem (AWS e Azure).
 - Projetos com foco em alta disponibilidade e eficiência operacional.
 - Infraestrutura como Código usando **Terraform**.
 - Ambientes **Dockerizados** e pipelines de automação.
